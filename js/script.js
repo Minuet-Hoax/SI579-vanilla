@@ -1,7 +1,7 @@
 const tripButton = document.querySelector('#trip-button');
 const tripMessage = document.querySelector('#trip-message');
 
-const tripUrl = 'https://example.com';
+const tripUrl = 'https://minuet-hoax.github.io/SI579-react/';
 
 let isShowing = false;
 
